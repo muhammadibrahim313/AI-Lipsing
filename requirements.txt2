@@ -1,0 +1,6 @@
+streamlit
+torch
+requests
+batch_face
+basicsr==1.4.2
+gfpgan
